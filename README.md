@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./logo_miaumiau_02.png" alt="PDFronin" width="360" />
+  <img src="./logo-miaumiau-02.png" alt="PDFronin" width="360" />
 </p>
 
 # MiauMiau
