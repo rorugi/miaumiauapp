@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./logo_miaumiau_02.png" alt="PDFronin" width="360" />
+</p>
+
 # MiauMiau
 
 Native Windows voice-to-text. Press a hotkey, speak, your words get typed into the focused window. Transcription runs locally on your GPU via whisper.cpp (Vulkan).
