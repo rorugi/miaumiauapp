@@ -4,7 +4,7 @@
 
 # MiauMiau
 
-Native Windows voice-to-text. Press a hotkey, speak, your words get typed into the focused window. Transcription runs locally on your GPU via whisper.cpp (Vulkan).
+Native Windows voice-to-text with local model. Press a hotkey, speak, your words get typed into the focused window. Transcription runs locally on your GPU via whisper.cpp (Vulkan).
 
 ## Quick start
 
